@@ -1,0 +1,29 @@
+D:\CLASS\lập trình trực quan\OOP\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.exe
+D:\CLASS\lập trình trực quan\OOP\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.deps.json
+D:\CLASS\lập trình trực quan\OOP\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.runtimeconfig.json
+D:\CLASS\lập trình trực quan\OOP\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.dll
+D:\CLASS\lập trình trực quan\OOP\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.pdb
+D:\CLASS\lập trình trực quan\OOP\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\CLASS\lập trình trực quan\OOP\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.AssemblyInfoInputs.cache
+D:\CLASS\lập trình trực quan\OOP\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.AssemblyInfo.cs
+D:\CLASS\lập trình trực quan\OOP\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.csproj.CoreCompileInputs.cache
+D:\CLASS\lập trình trực quan\OOP\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.dll
+D:\CLASS\lập trình trực quan\OOP\QuanLySanPhamCuaHang\obj\Debug\net10.0\refint\QuanLySanPhamCuaHang.dll
+D:\CLASS\lập trình trực quan\OOP\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.pdb
+D:\CLASS\lập trình trực quan\OOP\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.genruntimeconfig.cache
+D:\CLASS\lập trình trực quan\OOP\QuanLySanPhamCuaHang\obj\Debug\net10.0\ref\QuanLySanPhamCuaHang.dll
+D:\C#\Buoi2\DangTranNgocToan_6551071086_BTLT2\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Buoi2\DangTranNgocToan_6551071086_BTLT2\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.AssemblyInfoInputs.cache
+D:\C#\Buoi2\DangTranNgocToan_6551071086_BTLT2\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.AssemblyInfo.cs
+D:\C#\Buoi2\DangTranNgocToan_6551071086_BTLT2\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.csproj.CoreCompileInputs.cache
+D:\C#\Buoi2\DangTranNgocToan_6551071086_BTLT2\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.sourcelink.json
+D:\C#\Buoi2\DangTranNgocToan_6551071086_BTLT2\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.dll
+D:\C#\Buoi2\DangTranNgocToan_6551071086_BTLT2\QuanLySanPhamCuaHang\obj\Debug\net10.0\refint\QuanLySanPhamCuaHang.dll
+D:\C#\Buoi2\DangTranNgocToan_6551071086_BTLT2\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.pdb
+D:\C#\Buoi2\DangTranNgocToan_6551071086_BTLT2\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.exe
+D:\C#\Buoi2\DangTranNgocToan_6551071086_BTLT2\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.deps.json
+D:\C#\Buoi2\DangTranNgocToan_6551071086_BTLT2\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.runtimeconfig.json
+D:\C#\Buoi2\DangTranNgocToan_6551071086_BTLT2\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.dll
+D:\C#\Buoi2\DangTranNgocToan_6551071086_BTLT2\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.pdb
+D:\C#\Buoi2\DangTranNgocToan_6551071086_BTLT2\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.genruntimeconfig.cache
+D:\C#\Buoi2\DangTranNgocToan_6551071086_BTLT2\QuanLySanPhamCuaHang\obj\Debug\net10.0\ref\QuanLySanPhamCuaHang.dll
